@@ -21,7 +21,7 @@ plt.switch_backend('agg')
 # /Volumes/Yuan-T7/FAU_models/checkpoint_epoch_init.pth
 
 parser = argparse.ArgumentParser(description='DEMO')
-parser.add_argument('--mpath', '-p', default='/Volumes/Yuan-T7/FAU_models/models_r11/checkpoint_epoch69_11.pth', type=str, 
+parser.add_argument('--mpath', '-p', default='/Users/miguelmonares/Downloads/drive-download-20230524T190919Z-001/checkpoint_epoch_init.pth', type=str,
                     help='the path of model')
 parser.add_argument('--scale', '-s', default=80, type=int, 
                     help='determine the face crop size')
@@ -200,3 +200,4 @@ def main():
     
 if __name__ == '__main__':
     main()
+#%%
