@@ -1,4 +1,9 @@
-# FAU_Dataset
+# Analyzing Biases in AU Estimation Toward Fairer Facial Expression Recognition
+
+This project is the repository for the following submission at ACM SIGKDD 23':
+
+> TODO: put paper here.
+
 A Dataset of photorealistic faces with different facial action units' activation. <br>
 **Data Access:** [Google Drive](https://drive.google.com/drive/folders/1wzqoBauX746f9YxpFrmf8TUlUhfb8vDN?usp=sharing)
 ![Screenshot_20221220_095402](https://user-images.githubusercontent.com/24949723/208733705-827a0670-f3d7-4d31-9a87-f66cb483a4e4.png) 
